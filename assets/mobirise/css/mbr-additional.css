@@ -582,9 +582,6 @@ a:hover {
   color: #d27243;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 1.1rem;
@@ -681,6 +678,31 @@ body {
 }
 a {
   transition: color 0.6s;
+}
+.cid-TFOB9FuQbx {
+  padding-top: 25px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ff3366, #232323);
+}
+.cid-TFOB9FuQbx .news {
+  width: 171px;
+  background-color: #55b4d4;
+}
+.cid-TFOB9FuQbx .news-scroll a {
+  text-decoration: none;
+}
+.cid-TFOB9FuQbx .dot {
+  height: 6px;
+  width: 6px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px !important;
+  background-color: #ff3366;
+  border-radius: 50%;
+  display: inline-block;
+}
+.cid-TFOB9FuQbx DIV {
+  color: #ffffff;
 }
 .cid-stFHXtfrXE {
   z-index: 1000;
