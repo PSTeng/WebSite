@@ -569,7 +569,7 @@
           "alias": false,
           "_styles": {},
           "_name": "design-block",
-          "_customHTML": "<section id=\"PST-HERO\">\n<a href=\"https://psteng.officez.net\">\n<img src=\"https://i.ibb.co/t3TWNyh/PST-HERO.gif\" alt=\"PST-HERO\" border=\"0\">\n</a>\n</section>",
+          "_customHTML": "<section id=\"PST-HERO\">\n<a href=\"https://psteng.officez.net/index.html#PST-Slide\">\n<img src=\"https://i.ibb.co/t3TWNyh/PST-HERO.gif\" alt=\"PST-HERO\" border=\"0\">\n</a>\n</section>",
           "_cid": "WBZa283dzZ",
           "_anchor": "PST-HERO",
           "_PHPplaceholders": [],
