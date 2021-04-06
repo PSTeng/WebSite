@@ -1103,13 +1103,13 @@ a {
   margin-bottom: 20px;
 }
 .cid-4YITQ5lz7D .carousel-caption h3 {
-  background: #232323;
+  background: #723214;
   padding: 12px 24px;
   font-size: 40px;
   text-transform: uppercase;
 }
 .cid-4YITQ5lz7D .carousel-caption p {
-  background: #7f1933;
+  background: #8f0000;
   padding: 10px 20px;
   font-size: 20px;
   font-weight: 300;
@@ -1122,8 +1122,8 @@ a {
   background: #ccc;
 }
 .cid-4YITQ5lz7D .carousel-indicators div.active {
-  background: #7f1933;
-  border-color: #7f1933;
+  background: #8f0000;
+  border-color: #8f0000;
 }
 .cid-4YITQ5lz7D .carousel .nav {
   background: #eee;
@@ -1137,7 +1137,7 @@ a {
 }
 .cid-4YITQ5lz7D .carousel .nav .active a {
   color: #fff;
-  background: #7f1933;
+  background: #8f0000;
 }
 .cid-4YITQ5lz7D .carousel .nav strong {
   display: block;
