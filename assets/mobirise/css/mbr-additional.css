@@ -1098,7 +1098,7 @@ a {
 .cid-4YITQ5lz7D .carousel-caption p {
   color: #fff;
   display: inline-block;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Signika', sans-serif;
   text-shadow: none;
   margin-bottom: 20px;
 }
@@ -1106,10 +1106,10 @@ a {
   background: #723214;
   padding: 12px 24px;
   font-size: 40px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 .cid-4YITQ5lz7D .carousel-caption p {
-  background: #8f0000;
+  background: #993001;
   padding: 10px 20px;
   font-size: 20px;
   font-weight: 300;
