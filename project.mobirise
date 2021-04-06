@@ -68,7 +68,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/pst-nwlogo.png",
-    "mbrsiteDomain": "9xflohm6mt",
+    "mbrsiteDomain": "bi63bzuf6m",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -78,7 +78,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "witsec-mailform": true,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9PL3QYLYJC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9PL3QYLYJC');\n</script>\n\n\n<!-- bxSlider -->\n  <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js\"></script>\n<!-- bxSlider -->",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9PL3QYLYJC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9PL3QYLYJC');\n</script>",
     "witsec-mailform-to": "Labs@EZtech.OOO",
     "witsec-mailform-from": "Labs@EZtech.OOO",
     "witsec-mailform-from-them": true,
@@ -99,7 +99,8 @@
     "witsec-mailform-recaptcha-hidebadge": false,
     "uniqCompNum": 12,
     "versionPublish": "5.3.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "global_header_custom": "<!-- Start bxSlider -->\n  <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js\"></script>\n\n\t<script>\n\t\t$('.bxslider').bxSlider({\n\t\tauto: true,\n\t\tautoControls: true,\n\t\tstopAutoOnClick: true,\n\t\tpager: true,\n\t\t});\n\t</script>\n<!-- End bxSlider -->"
   },
   "pages": {
     "index.html": {
@@ -583,10 +584,8 @@
           "_name": "design-block",
           "_sourceTheme": "mobirise5",
           "_styles": {},
-          "_customHTML": "<section id=\"PST-Test_Slider\">\n\t<div class=\"bxslider\">\n\t\t<div><img src=\"assets/images/pst-slide-1.jpg\"></div>\n\t\t<div><img src=\"assets/images/pst-slide-2.jpg\"></div>\n\t\t<div><img src=\"assets/images/pst-slide-3.jpg\"></div>\n    <div><img src=\"assets/images/pst-slide-4.jpg\"></div>\n    <div><img src=\"assets/images/pst-slide-5.jpg\"></div>\n    <div><img src=\"assets/images/pst-slide-6.jpg\"></div>\n\t</div>\n\t[JS_CODE_0]\n</section>",
-          "_JSplaceholders": [
-            "<script>\n\t\t$('.bxslider').bxSlider({\n\t\tauto: true,\n\t\tautoControls: true,\n\t\tstopAutoOnClick: true,\n\t\tpager: true,\n\t\t});\n\t</script>"
-          ],
+          "_customHTML": "<section id=\"PST-Test_Slider\">\n\t<div class=\"bxslider\">\n\t\t<div><img src=\"assets/images/pst-slide-1.jpg\"></div>\n\t\t<div><img src=\"assets/images/pst-slide-2.jpg\"></div>\n\t\t<div><img src=\"assets/images/pst-slide-3.jpg\"></div>\n    <div><img src=\"assets/images/pst-slide-4.jpg\"></div>\n    <div><img src=\"assets/images/pst-slide-5.jpg\"></div>\n    <div><img src=\"assets/images/pst-slide-6.jpg\"></div>\n\t</div>\n</section>",
+          "_JSplaceholders": [],
           "_PHPplaceholders": [],
           "_anchor": "design-block-b",
           "_isUserblock": true,
