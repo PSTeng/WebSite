@@ -1067,7 +1067,7 @@ a {
   color: #fff;
 }
 .cid-4YITQ5lz7D .carousel {
-  margin: 2px 0;
+  margin: 5px 0;
   background: #f4f1f1;
 }
 .cid-4YITQ5lz7D .carousel .item {
@@ -1147,4 +1147,9 @@ a {
   .cid-4YITQ5lz7D .carousel-indicators {
     display: none;
   }
+}
+.cid-stN8Z7yodf {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
