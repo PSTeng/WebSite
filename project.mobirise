@@ -639,6 +639,8 @@
             },
             ".carousel-indicators": {
               "margin-top": "0px",
+              "margin-right": "0%",
+              "margin-left": "0%",
               "position": "relative",
               "background": "#ccc"
             },
