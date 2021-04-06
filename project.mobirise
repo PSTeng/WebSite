@@ -68,7 +68,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/pst-nwlogo.png",
-    "mbrsiteDomain": "6ckd5bbnzf",
+    "mbrsiteDomain": "0zxm02du57",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -575,23 +575,6 @@
           "_anchor": "PST-HERO",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {},
-          "_name": "slider1",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<section id=\"PST-Slider-Test\">\n\n\t<div class=\"bxslider\">\n\t\t<div><img src=\"https://i.ibb.co/r5FccPK/PST-Slide-1.jpg\"></div>\n\t\t<div><img src=\"https://i.ibb.co/3Rm1NkV/PST-Slide-2.jpg\"></div>\n\t\t<div><img src=\"https://i.ibb.co/N9VVc7v/PST-Slide-3.jpg\"></div>\n\t</div>\n\t[JS_CODE_0]\n\n</section>",
-          "_cid": "stMIxZJ4nP",
-          "_anchor": "PST-Slide",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>\n\t\t$('.bxslider').bxSlider({\n\t\tauto: true,\n\t\tautoControls: true,\n\t\tstopAutoOnClick: true,\n\t\tpager: true,\n\t\t});\n\t</script>"
-          ],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
