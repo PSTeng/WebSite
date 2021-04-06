@@ -68,7 +68,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/pst-nwlogo.png",
-    "mbrsiteDomain": "yhs54eaik9",
+    "mbrsiteDomain": "olgbwlyc7w",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -100,7 +100,7 @@
     "uniqCompNum": 14,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
-    "global_header_custom": "  <!-- Start bxSlider -->\n  <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js\"></script>\n  <!-- End bxSlider -->"
+    "global_header_custom": "  <!-- Start bxSlider -->\n  <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js\"></script>\n  <!-- End bxSlider -->\n\n\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">"
   },
   "pages": {
     "index.html": {
