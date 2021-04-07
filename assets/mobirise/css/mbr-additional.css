@@ -1309,3 +1309,29 @@ a {
 .cid-stT0nHHtH3 .media-container-row.pt-5.pst-solu {
   padding-top: 0rem!important;
 }
+.cid-stUG0n3nQB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/pst-bg-tech.jpg");
+}
+.cid-stUG0n3nQB .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-stUG0n3nQB .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-stUG0n3nQB .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-stUG0n3nQB .mbr-text {
+    text-align: center;
+  }
+}
