@@ -1221,7 +1221,7 @@ a {
 }
 .cid-stT0nHHtH3 {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-stT0nHHtH3 .mbr-section-subtitle,
@@ -1298,86 +1298,5 @@ a {
   opacity: .5;
 }
 .cid-stT0nHHtH3 .card-img:hover .mbr-section-btn {
-  opacity: 1;
-}
-.cid-stT24nlz2L {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbruf.jpg");
-}
-.cid-stT24nlz2L .mbr-section-subtitle,
-.cid-stT24nlz2L .mbr-text {
-  color: #767676;
-}
-.cid-stT24nlz2L .card {
-  display: -webkit-flex;
-  position: relative;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-stT24nlz2L .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-stT24nlz2L .card-wrapper .card-img {
-  display: -webkit-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  -webkit-flex-direction: column;
-  -webkit-align-items: center;
-  -webkit-justify-content: center;
-}
-.cid-stT24nlz2L .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-stT24nlz2L .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
-.cid-stT24nlz2L .card-wrapper .card-img img {
-  width: 100%;
-}
-.cid-stT24nlz2L .card-wrapper .card-box {
-  background-color: #ffffff;
-  padding: 0 2rem 2rem 2rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.cid-stT24nlz2L .card-wrapper .card-box h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  padding-top: 2rem;
-}
-.cid-stT24nlz2L .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-}
-.cid-stT24nlz2L .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-}
-.cid-stT24nlz2L .card-img .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-stT24nlz2L .card-img .mbr-section-btn {
-  opacity: 0;
-}
-.cid-stT24nlz2L .card-img:hover .mbr-overlay {
-  opacity: .5;
-}
-.cid-stT24nlz2L .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
