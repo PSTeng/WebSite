@@ -68,8 +68,8 @@
         "url": "https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/pst-nwlogo.png",
-    "mbrsiteDomain": "jqhoa39lft",
+    "favicon": "@PROJECT_PATH@/assets/images/pst-favico.png",
+    "mbrsiteDomain": "uexto57ujj",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -98,7 +98,7 @@
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-disable-button": false,
     "witsec-mailform-recaptcha-hidebadge": false,
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "global_header_custom": "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">"
