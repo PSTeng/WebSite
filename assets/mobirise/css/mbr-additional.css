@@ -1344,8 +1344,8 @@ a {
   }
 }
 .cid-Jo5jSA8K7S {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 0px;
   background: linear-gradient(3deg, #cc2952, #232323);
 }
 .cid-Jo5jSA8K7S .b-0 {
@@ -1480,6 +1480,7 @@ a {
 }
 .cid-Jo5jSA8K7S H6 {
   text-align: left;
+  font-family: 'Signika', sans-serif;
 }
 .cid-3GIYPSkR6z {
   padding-top: 0px;
