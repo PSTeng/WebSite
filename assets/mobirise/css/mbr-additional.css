@@ -1344,9 +1344,9 @@ a {
   }
 }
 .cid-Jo5jSA8K7S {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 0px;
-  background: linear-gradient(3deg, #cc2952, #232323);
+  background: linear-gradient(10deg, #cc2952, #232323);
 }
 .cid-Jo5jSA8K7S .b-0 {
   bottom: 0;
@@ -1518,4 +1518,74 @@ a {
 }
 .cid-3GIYPSkR6z H3 {
   color: #232323;
+}
+.cid-EoonOv4OX4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-EoonOv4OX4 .mbr-text {
+  color: #767676;
+}
+.cid-EoonOv4OX4 h4 {
+  text-align: center;
+}
+.cid-EoonOv4OX4 p {
+  text-align: center;
+}
+.cid-EoonOv4OX4 .badge {
+  position: relative;
+  width: 200px;
+  display: inline-block;
+  margin: 0 20px 20px 20px;
+}
+.cid-EoonOv4OX4 .badge svg {
+  width: 200px;
+}
+.cid-EoonOv4OX4 .title {
+  position: absolute;
+  top: -28px;
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+  width: 100%;
+  padding: 20px 0;
+  color: #232323;
+}
+.cid-EoonOv4OX4 .subtitle {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+  top: 100px;
+}
+.cid-EoonOv4OX4 .stars {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #ffffff;
+  top: 140px;
+}
+.cid-EoonOv4OX4 .cBadge1 .title {
+  background: #dc514e;
+}
+.cid-EoonOv4OX4 .cBadge1 .subtitle:after {
+  color: #dc514e;
+}
+.cid-EoonOv4OX4 .cBadge2 .title {
+  background: #2ecc71;
+}
+.cid-EoonOv4OX4 .cBadge2 .subtitle:after {
+  color: #2ecc71;
+}
+.cid-EoonOv4OX4 .cBadge3 .title {
+  background: #95a5a6;
+}
+.cid-EoonOv4OX4 .cBadge3 .subtitle:after {
+  color: #95a5a6;
+}
+.cid-EoonOv4OX4 .cBadge4 .title {
+  background: #f1c40f;
+}
+.cid-EoonOv4OX4 .cBadge4 .subtitle:after {
+  color: #f1c40f;
 }
