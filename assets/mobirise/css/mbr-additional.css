@@ -1714,16 +1714,16 @@ a {
   transition: opacity 0.5s ease-in, transform 0.3s ease-in-out 0.25s;
 }
 .cid-suUHkGN2KX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #efefef);
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #c44e11;
+  background: linear-gradient(#c44e11, #efefef);
 }
 .cid-suUHkGN2KX .carousel-control {
   background: #000;
 }
 .cid-suUHkGN2KX .mbr-section-subtitle {
-  color: #767676;
+  color: #fff2bb;
 }
 .cid-suUHkGN2KX .carousel-item {
   -webkit-justify-content: center;
@@ -1917,4 +1917,7 @@ a {
   .cid-suUHkGN2KX .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-suUHkGN2KX H2 {
+  color: #ffffff;
 }
