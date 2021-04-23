@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Signika:300,400,500,600,700);
+
 body {
   font-family: Jost;
 }
@@ -1515,7 +1517,8 @@ a {
   display: none;
 }
 .cid-3GIYPSkR6z .btn {
-  font-size: 10px;
+  font-size: 12px;
+  font-family: 'Signika', sans-serif;
 }
 .cid-3GIYPSkR6z H3 {
   color: #232323;
