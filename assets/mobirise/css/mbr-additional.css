@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Signika:300,400,500,600,700);
-
 body {
   font-family: Jost;
 }
@@ -1505,6 +1503,9 @@ a {
 }
 .cid-3GIYPSkR6z .slidehead {
   font-size: 25px;
+  font-family: 'Signika';
+  font-weight: bolder;
+  color: #b90000;
 }
 .cid-3GIYPSkR6z .hw2 {
   width: 70%;
