@@ -1139,7 +1139,8 @@
               "background-color": "@cbgColor",
               "color": "@ctbgColor",
               "padding": "5px",
-              "padding-bottom": "5px"
+              "padding-bottom": "5px",
+              "font-family": "'Signika'"
             },
             ".slidehead": {
               "font-size": "25px",
